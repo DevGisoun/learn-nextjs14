@@ -124,7 +124,7 @@ table {
 }
 
 body {
-  background-color: black;
+  padding-top: 150px;
   font-family:
     system-ui,
     -apple-system,
@@ -137,6 +137,7 @@ body {
     "Open Sans",
     "Helvetica Neue",
     sans-serif;
+  background-color: black;
   color: white;
   font-size: 18px;
 }
