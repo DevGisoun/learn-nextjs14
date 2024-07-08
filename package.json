@@ -3,8 +3,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
+    "build": "next build",
     "start:local": "next dev -p 4000",
-    "start:dev": "next dev -p 8888"
+    "start:dev": "next dev -p 8888",
+    "start:prod": "next start -p 8282"
   },
   "keywords": [],
   "author": "",
